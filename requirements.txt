@@ -1,5 +1,0 @@
-opencv-python==4.8.1.78
-requests~=2.31.0
-django-scheduler~=0.10.1
-SQLAlchemy~=2.0.44
-numpy>=2.0.1
